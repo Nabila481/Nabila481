@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nabila481
 - 👀 I’m interested in idk really
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on nothing rn
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me nabilaislam@iut-dhaka.edu
 
 <!---
